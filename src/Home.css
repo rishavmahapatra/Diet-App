@@ -24,5 +24,15 @@ img{
         font-size: 42px;
         margin: 28px;
     }
-    
+    img{
+        margin-left: 0px;
+    }
+    .leftside{
+        margin-top: 30px;
+    }
+    h6{
+        margin-top: auto;
+        margin-left: 28px;
+        margin-right: 28px;
+    }
   }
