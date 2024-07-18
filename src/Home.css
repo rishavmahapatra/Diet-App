@@ -1,0 +1,28 @@
+h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+h6{
+    font-size: 20px;
+    margin-top: 32px;
+    font-weight: 500;
+}
+img{
+    margin-left: 10px;  
+    margin-top: 45px;
+    /* padding: 18px; */
+}
+.carousel-control-next ,.carousel-control-prev, .carousel-indicators{
+    display: none;
+}
+.leftside{
+    margin-top: 140px;
+    /* margin-left: 160px; */
+}
+@media screen and (max-width: 576px) {
+    h1 {
+        font-size: 42px;
+        margin: 28px;
+    }
+    
+  }
