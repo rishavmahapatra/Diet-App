@@ -2,7 +2,8 @@ import React from 'react'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import css from './Home.css';
+// eslint-disable-next-line
+import classes from './Home.css';
 import Carousel from 'react-bootstrap/Carousel';
 
 export default function Home() {
