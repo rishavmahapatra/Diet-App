@@ -12,8 +12,8 @@ export default function Home() {
     <Row>
       <Col className='leftside' xs={12} md={4}><h1>Trust me,<br/> your diet doesn't <br/> have to be boring.</h1>
       
-      <Row><Col ><h6>A healthy diet provides the body with <br/> essential nutrition: fluid, 
-        macronutrients,<br/> micronutrients, and adequate calories.</h6></Col></Row>
+      <Row><Col ><h6>A healthy diet provides the body with essential nutrition: fluid, 
+        macronutrients, micronutrients, and adequate calories.</h6></Col></Row>
       
       </Col>
       
